@@ -1,0 +1,15 @@
+Nama : Rara Deninda Hurianto
+URL Github : https://github.com/Rara12702
+
+Algoritma : Makan Roti Panggang
+
+1. Mulai
+2. Menuju ke dapur
+3. Mengecek apakah ada roti di dapur
+4. Jika roti tersedia, maka
+5. Siapkan Roti
+6. Siapkan alat panggang
+7. Panggang roti
+8. Sajikan roti panggang
+9. Roti siap di makan
+10.Selesai
